@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Gabriela Matos</h1>
 
-<!--
-**gabrielamatos06/gabrielamatos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de Análise e Desenvolvimento de Sistemas e Programação | 🌍 Apaixonada por Tecnologia
+</p><br><br>
 
-Here are some ideas to get you started:
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-gabrielamatos640@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielamatos640@gmail.com)](mailto:gabrielamatos640@gmail.com)
+<br><br>
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊 <br><br>
