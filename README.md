@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Gabriela Matos</h1>
 
 <p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas e Programação | 🌍 Apaixonada por Tecnologia
+  💻 Estudante de Análise e Desenvolvimento de Sistemas | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
 ## 🚀 Linguagens de Programação
