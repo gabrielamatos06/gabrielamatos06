@@ -4,7 +4,7 @@
   💻 Estudante de Análise e Desenvolvimento de Sistemas | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
-## 🚀 Linguagens de Programação
+## 🚀 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
