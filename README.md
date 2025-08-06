@@ -11,10 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
-
-[![Gmail Badge]
-<br>
-<a href="mailto:matosgabriela640@gmail.com">
-<br>
+[![Gmail Badge](https://img.shields.io/badge/-matosgabriela640@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matosgabriela640@gmail.com)](mailto:matosgabriela640@gmail.com)
+<br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊 <br><br>
