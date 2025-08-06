@@ -12,7 +12,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-gabrielamatos640@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielamatos640@gmail.com)](mailto:gabrielamatos640@gmail.com)
+[![Gmail Badge]
 <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊 <br><br>
