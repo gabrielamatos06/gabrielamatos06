@@ -13,6 +13,8 @@
 ## 📫 Contato
 
 [![Gmail Badge]
-<br><br>
+<br>
+<a href="mailto:matosgabriela640@gmail.com">
+<br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊 <br><br>
